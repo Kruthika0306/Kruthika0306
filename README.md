@@ -7,7 +7,7 @@
 
 🔭 Exploring AI, Data Science, and web development  
 💡 Experience in hackathons involving AI-based concepts and system design  
-💻 Familiar with Python, C, HTML, CSS, and basic JavaScript  
+💻 Familiar with Python, C, HTML, CSS, SQL and basic JavaScript  
 📊 Interested in applying data-driven thinking to real-world problems  
 📚 Currently improving DSA, DBMS, and problem-solving skills  
 
