@@ -31,6 +31,7 @@ LinkedIn -> <a href="https://www.linkedin.com/in/kruthika-a-8185932b5">kruthika-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Kruthika0306&theme=midnight-purple&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kruthika0306&layout=compact&theme=midnight-purple&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
