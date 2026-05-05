@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6A0DAD,50:8A2BE2,100:DA70D6&text=KRUTHIKA%20A&fontSize=48&fontColor=F5E6FF&animation=twinkling&fontAlignY=35&desc=CSE%20(Data%20Science)%20Student&descSize=18&descAlignY=55"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DA70D6&center=true&vCenter=true&lines=Aspiring+Data+Science+Engineer;Exploring+AI+%26+Web+Development;Hackathon+Enthusiast;Learning+Something+New+Everyday✨;Data+driven+thinking+to+solve+real+world+problems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=DA70D6&center=true&vCenter=true&lines=Aspiring+Data+Science+Engineer;Exploring+AI+%26+Web+Development;Hackathon+Enthusiast;Learning+Something+New+Everyday✨;"/>
 </p>
 
 ---
