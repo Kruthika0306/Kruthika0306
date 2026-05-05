@@ -1,9 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=KRUTHIKA%20A&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CSE%20(Data%20Science)%20Student&descSize=18&descAlignY=55&textBg=false"/>
 
 # About Me:
-🌱 I’m currently pursuing 2nd year BTech at Presidency University (CSE - Data Science)  
-🔭 I’m currently learning DBMS and improving in DSA  
-💬 Ask me about Python, C, and Frontend basics  
+🌱 2nd year CSE (Data Science) student  
+🔭 Exploring AI, Data Science, and frontend development  
+💡 Interested in turning ideas into structured tech solutions through hackathons  
+📚 Currently working on improving DSA and core concepts  
+
+📫 How to reach me:  
+LinkedIn -> https://www.linkedin.com/in/kruthika-a-8185932b5   
 
 📫 How to reach me:  
 LinkedIn -> https://www.linkedin.com/in/kruthika-a-8185932b5  
