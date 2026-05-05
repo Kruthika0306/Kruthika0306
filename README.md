@@ -4,7 +4,6 @@
 
 <h2 align="center" style="color:#C8A2C8;">👩‍💻 About Me</h2>
 
-<p align="center">
 🌱 CSE (Data Science) student <br><br>
 🌱 Batch: 2024-2028 <br><br>
 
