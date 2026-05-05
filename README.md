@@ -8,6 +8,7 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
+<p align="center">
 🌱 CSE (Data Science) student <br><br>
 🌱 Batch: 2024-2028 <br><br>
 
@@ -34,19 +35,30 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Activity</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kruthika0306&theme=midnight-purple&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kruthika0306&theme=midnight-purple&hide_border=false&layout=compact&langs_count=8" width="48%" />
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kruthika0306&show_icons=true&theme=midnight-purple&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="260em" src="https://github-readme-activity-graph.vercel.app/graph?username=Kruthika0306&bg_color=0d1117&color=DA70D6&line=8A2BE2&point=F5E6FF&area=true&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Kruthika0306&theme=midnight-purple&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">🔥 Most Used Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kruthika0306&theme=midnight-purple&hide_border=false&layout=compact&langs_count=8" />
+</p>
+
+---
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kruthika0306&bg_color=0d1117&color=DA70D6&line=8A2BE2&point=F5E6FF&area=true&hide_border=true" />
 </p>
 
 ---
