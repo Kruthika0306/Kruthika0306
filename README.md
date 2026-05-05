@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=KRUTHIKA%20A&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CSE%20(Data%20Science)%20Student&descSize=18&descAlignY=55&textBg=false"/>
 
 # About Me:
-🌱 CSE (Data Science)student  (2024-2028)
+🌱 CSE (Data Science)student 
+🌱 Batch: 2024-2028
 🔭 Exploring AI, Data Science, and web development  
 💡 Experience in hackathons involving AI-based concepts and system design  
 💻 Familiar with Python, C, HTML, CSS, and basic JavaScript  
