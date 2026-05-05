@@ -38,7 +38,7 @@ LinkedIn -> <a href="https://www.linkedin.com/in/kruthika-a-8185932b5">kruthika-
 </p>
 
 <p align="center">
-  <img height="260em" src="https://github-readme-activity-graph.vercel.app/graph?username=Kruthika0306&bg_color=0d1117&color=DA70D6&line=8A2BE2&point=F5E6FF&area=true&hide_border=true" />
+  <img height="260em" src="https://github-readme-activity-graph.vercel.app/graph?username=Kruthika0306&theme=react&area=true&hide_border=true&radius=12&line=8A2BE2&point=DA70D6" />
 </p>
 
 ---
@@ -52,14 +52,6 @@ LinkedIn -> <a href="https://www.linkedin.com/in/kruthika-a-8185932b5">kruthika-
   <img src="https://img.shields.io/badge/CSS3-8A2BE2?style=plastic&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-D8BFD8?style=plastic&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-6A0DAD?style=plastic&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://github.com/Kruthika0306/Kruthika0306/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
