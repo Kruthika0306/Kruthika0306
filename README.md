@@ -1,13 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=KRUTHIKA%20A&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CSE%20(Data%20Science)%20Student&descSize=18&descAlignY=55&textBg=false"/>
 
 # About Me:
-🌱CSE (Data Science) student (2024-2028)
+🌱 I’m a 2nd year BTech student in CSE (Data Science)  
 🔭 Exploring AI, Data Science, and frontend development  
 💡 Interested in turning ideas into structured tech solutions through hackathons  
-📚 Currently working on improving DSA and core concepts  
+📚 Currently improving DSA and core concepts  
 
 📫 How to reach me:  
 LinkedIn -> https://www.linkedin.com/in/kruthika-a-8185932b5  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akruthika0306@gmail.com)
 
 ---
 
