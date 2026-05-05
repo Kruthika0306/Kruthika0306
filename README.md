@@ -2,6 +2,7 @@
 
 # About Me:
 🌱CSE (Data Science) student(Batch 2024-2028)
+
 🔭 Exploring AI, Data Science, and frontend development  
 💡 Interested in turning ideas into structured tech solutions through hackathons  
 📚 Currently working on improving DSA and core concepts  
