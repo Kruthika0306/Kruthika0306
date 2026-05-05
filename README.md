@@ -2,7 +2,9 @@
 
 # About Me:
 🌱 CSE (Data Science) student 
+
 🌱 Batch: 2024-2028
+
 🔭 Exploring AI, Data Science, and web development  
 💡 Experience in hackathons involving AI-based concepts and system design  
 💻 Familiar with Python, C, HTML, CSS, and basic JavaScript  
