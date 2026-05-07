@@ -33,9 +33,6 @@ LinkedIn -> <a href="https://www.linkedin.com/in/kruthika-a-8185932b5">kruthika-
 
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kruthika0306&theme=midnight-purple&hide_border=true" width="49%" />
-</p>
 
 <p align="center">
   <img height="260em" src="https://github-readme-activity-graph.vercel.app/graph?username=Kruthika0306&theme=react&area=true&hide_border=true&radius=12&line=8A2BE2&point=DA70D6" />
